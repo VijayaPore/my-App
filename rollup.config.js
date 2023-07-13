@@ -30,7 +30,7 @@ function serve() {
 }
 
 export default {
-	base: "/my-App/",
+	base: "/my-app1/", //repository name
 
 	input: 'src/main.js',
 	output: {
